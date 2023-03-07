@@ -12,24 +12,24 @@ I was able to practice systems thinking and active learning while learning Ardui
 This is a good introductory project for an undergraduate student or hobbyist, as it provides both learning value, and real-world value by providing home security, or data collection mechanisms.
 
 ## Features and Components
-**Components**: 1x U1 Arduino Uno R3, 1x R2 330kΩ Resistor
-**Actuators**: 1x PIEZO1 Piezo buzzer, 1x SERVO1 Continuous Micro Servo, 1x D2 Red LED, 1x S1 Slideswitch
-**Sensors**: 1x DIST1 Ultrasonic Distance Sensor
-**Serial Monitor**: Provides serial monitor data if connected to the Arduino IDE via the Ultrasonic Distance Sensor.
+- **Components**: 1x U1 Arduino Uno R3, 1x R2 330kΩ Resistor
+- **Actuators**: 1x PIEZO1 Piezo buzzer, 1x SERVO1 Continuous Micro Servo, 1x D2 Red LED, 1x S1 Slideswitch
+- **Sensors**: 1x DIST1 Ultrasonic Distance Sensor
+- **Serial Monitor**: Provides serial monitor data if connected to the Arduino IDE via the Ultrasonic Distance Sensor.
 
 ## Schematic and Circuit Diagrams
-![](SecuritySurveillanceCamera/SecurityCameraASchematic.png)
+![](SecurityCameraASchematic.png)
 
 ## Bill of Materials
-![](SecuritySurveillanceCamera/BillOfMaterials.png)
+![](BillOfMaterials.png)
 
 ## Assembly Instructions
 Assemble the circuit according to this diagram:
-![](SecuritySurveillanceCamera/CircuitDesign.png)
+![](CircuitDesign.png)
 
 ## Usage and Operation
 Mount the camera where desired, and connect to a power source. When connected by USB to the computer, the serial monitor produces this output.
-![](SecuritySurveillanceCamera/giphy.gif)
+![](giphy.gif)
 
 ## Troubleshooting and FAQs
 Please refer to the Arduino startup guide for the IDE used for this project, and the Sparkfun Inventor's Kit's tutorial on the Redboard Qwiic, especially installing the correct drivers:
