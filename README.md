@@ -1,2 +1,0 @@
-# SecuritySurveillanceCamera
-arduino project
