@@ -25,6 +25,7 @@ Assemble the circuit according to this diagram:
 
 ## Usage and Operation
 Mount the camera where desired, and connect to a power source. When connected by USB to the computer, the serial monitor produces this output.
+
 ![](giphy.gif)
 
 ## Troubleshooting and FAQs
